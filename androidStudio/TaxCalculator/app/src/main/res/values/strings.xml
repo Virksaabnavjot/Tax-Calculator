@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tax Calculator</string>
+    <string name="heading">Tax Calculator</string>
+    <string name="calculate_button">Calculate Tax</string>
+    <string name="tax_here">Tax Here</string>
+    <string name="salary_shown_here">In Hand Salary will appear here</string>
+</resources>
